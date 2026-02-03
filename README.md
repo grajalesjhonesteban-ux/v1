@@ -7,6 +7,8 @@
 ``git commit -m "v1"``
 ``added 65 packages, and audited 66 packages in 4s``
 ``added 65 packages, and audited 66 packages in 4s``
+**inicias un proyecto**
+``npm init -y``
 
 
 
