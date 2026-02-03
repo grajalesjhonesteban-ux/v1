@@ -5,6 +5,7 @@
 ``git init``
 ``git add``
 ``git commit -m "v1"``
+``added 65 packages, and audited 66 packages in 4s``
 
 # 📁Estructura  profesional de una API en Node.js
 api-node
