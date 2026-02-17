@@ -1,4 +1,4 @@
-const Usuario = require('../modelss/usuario.models');
+const Usuario = require('../models/usuario.models');
 const createUsuario = async (data) => {
     return await Usuario.create(data);
 };

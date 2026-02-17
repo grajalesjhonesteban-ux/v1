@@ -53,9 +53,7 @@ app.listen(PORT,()=>{
 module.export = app.js
 
 📁src/models/usuario.model.js
-
 📁src/services/usuario.service.js
-
 📁src/controllers/usuario.controller.js
 
 
